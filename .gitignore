@@ -1,0 +1,7 @@
+data/
+wandb/
+*.pth
+__pycache__/
+.ipynb_checkpoints/
+sample_data/
+.config/
